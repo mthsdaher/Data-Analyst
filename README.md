@@ -1,2 +1,2 @@
 # Data-Analyst
-Few projects in data analyst.
+Few projects in data analysis.
